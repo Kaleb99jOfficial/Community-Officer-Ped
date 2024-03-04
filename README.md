@@ -1,7 +1,7 @@
 # Community-Officer-Ped
 Community Police Officer ped for State of Pennsylvania Roleplay, released to you!
 
-State of Pennsylvania Roleplay has shut down after a major hosting error that we could not recover from. We retain all copyrights to SPRP-Owned content.
+State of Pennsylvania Roleplay has shut down after a major hosting error that we could not recover from.
 
 This includes hat, uniform, kevlar vest, reflective vest, and pants.
 
